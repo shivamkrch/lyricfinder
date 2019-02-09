@@ -1,0 +1,13 @@
+{
+  "main.css": "/lyric-finder/static/css/main.6b87c6f3.chunk.css",
+  "main.js": "/lyric-finder/static/js/main.9db545d7.chunk.js",
+  "main.js.map": "/lyric-finder/static/js/main.9db545d7.chunk.js.map",
+  "static/js/1.44a9cdbc.chunk.js": "/lyric-finder/static/js/1.44a9cdbc.chunk.js",
+  "static/js/1.44a9cdbc.chunk.js.map": "/lyric-finder/static/js/1.44a9cdbc.chunk.js.map",
+  "runtime~main.js": "/lyric-finder/static/js/runtime~main.7a31bb6f.js",
+  "runtime~main.js.map": "/lyric-finder/static/js/runtime~main.7a31bb6f.js.map",
+  "static/css/main.6b87c6f3.chunk.css.map": "/lyric-finder/static/css/main.6b87c6f3.chunk.css.map",
+  "index.html": "/lyric-finder/index.html",
+  "precache-manifest.548a6936c3a02cd5d4c01b73017c2639.js": "/lyric-finder/precache-manifest.548a6936c3a02cd5d4c01b73017c2639.js",
+  "service-worker.js": "/lyric-finder/service-worker.js"
+}

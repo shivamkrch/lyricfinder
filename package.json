@@ -1,0 +1,14 @@
+{
+  "name": "lyricfinderapp",
+  "version": "1.0.0",
+  "description": "A React app which uses the Musixmatch api and shows lyrics of a song.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Shivam Kumar",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
